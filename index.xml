@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drumscratcher</title>
+    <link>http://drumscratcher.com/</link>
+    <description>Recent content on Drumscratcher</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Oct 2018 21:17:50 -0700</lastBuildDate>
+    
+	<atom:link href="http://drumscratcher.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pricing</title>
+      <link>http://drumscratcher.com/pricing/</link>
+      <pubDate>Mon, 15 Oct 2018 14:15:11 -0700</pubDate>
+      
+      <guid>http://drumscratcher.com/pricing/</guid>
+      <description>What do I need to do to get my drum engraved? The first step to getting your drum engraved is to decide your budget. Most classic patterns fall in the $250-$550 range with the most popular vintage patterns in the $350-$450 range. Since all prices are based on the time it takes to produce your engraving (including the artwork for the patterns), you can save money by choosing a pattern that I&amp;rsquo;ve already produced, as the patterns are already made.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://drumscratcher.com/about/</link>
+      <pubDate>Mon, 15 Oct 2018 14:05:36 -0700</pubDate>
+      
+      <guid>http://drumscratcher.com/about/</guid>
+      <description>Welcome to the Drumscratcher site! This page features the hand engraving artwork of John Aldridge.
+For those of you who are not familiar with the history of hand engraving on snare drums, this page will give a little background to help you start your custom engraving job.
+A Brief History of Hand Engraving Hand engraving (using nothing but hand power and small blades fitted into wooden handles) is a centuries old art form.</description>
+    </item>
+    
+  </channel>
+</rss>
